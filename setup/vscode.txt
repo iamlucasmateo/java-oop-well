@@ -1,0 +1,2 @@
+Command Palette => Configure Java Runtime to choose the runtime.
+QuickFix
